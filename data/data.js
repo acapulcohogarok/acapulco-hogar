@@ -96,7 +96,7 @@ window.AH_DATA = {
     {"id":"deco-lampara-nueva-roma","cat":"deco","name":"Lámpara Nueva Roma","img":"deco-02.jpg","price":59985,"dims":"48 × 24 cm","sec":"lamparas"},
     {"id":"deco-lampara-diamante","cat":"deco","name":"Lámpara Diamante","img":"deco-03.jpg","price":59985,"dims":"48 × 27 cm","sec":"lamparas"},
     {"id":"deco-lampara-diamante-xl","cat":"deco","name":"Lámpara Diamante XL","img":"deco-04.jpg","price":65985,"dims":"48 × 43 cm","sec":"lamparas"},
-    {"id":"deco-lampara-modena","cat":"deco","name":"Lámpara Modena","img":"deco-05.jpg","price":75000,"dims":"50 × 50 cm","materials":["Yute fibra natural","Tejido en marrón o negro","Hierro macizo pintado al horno (negro o blanco)"],"featured":true,"sec":"lamparas"},
+    {"id":"deco-lampara-modena","cat":"deco","name":"Lámpara Modena","img":"deco-lampara-modena-mullf6hg.jpg","price":75000,"dims":"50 × 50 cm","materials":["Yute fibra natural","Tejido en marrón o negro","Hierro macizo pintado al horno (negro o blanco)"],"featured":true,"sec":"lamparas"},
     {"id":"deco-mesa-duo-nordica","cat":"deco","name":"Mesa Dúo - Nórdica","img":"deco-06.jpg","price":80060,"dims":"Mesa 1: 50 × 50 × 56 cm · Mesa 2: 45 × 45 × 40 cm","materials":["Melamina de 18 mm"],"sec":"nordica"},
     {"id":"deco-mesa-de-luz-con-cajon-nordica","cat":"deco","name":"Mesa de Luz con Cajón - Nórdica","img":"deco-07.jpg","price":64250,"dims":"55 × 40 × 32 cm","materials":["Melamina de 18 mm"],"sec":"nordica"},
     {"id":"deco-mesa-de-luz-nordica","cat":"deco","name":"Mesa de Luz - Nórdica","img":"deco-08.jpg","price":56500,"dims":"55 × 40 × 32 cm","materials":["Melamina de 18 mm"],"sec":"nordica"},
