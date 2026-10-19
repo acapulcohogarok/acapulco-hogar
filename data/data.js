@@ -104,6 +104,7 @@ window.AH_DATA = {
     {"id":"deco-mesa-g-nordica","cat":"deco","name":"Mesa \"G\" - Nórdica","img":"deco-11.jpg","price":80060,"dims":"85 × 42 × 45 cm","materials":["Melamina de 18 mm"],"sec":"nordica"},
     {"id":"deco-juguetero-nordico","cat":"deco","name":"Juguetero - Nórdico","img":"deco-12.jpg","price":56500,"dims":"72 × 50 × 30 cm","materials":["Melamina de 18 mm"],"sec":"nordica"},
     {"id":"sillones-exterior-colgante-gota-con-almohadon","cat":"sillones-exterior","name":"Colgante Gota con Almohadon","img":"sillones-exterior-colgante-gota-con-almo-mv85ckhm.jpg","sec":"colgantes","price":140000,"desc":"Medidas aprox: 95 cm ancho x 130 cm alto x 58 cm prof\u000b HIERRO 5/8 - COLOR NEGRO\u000bINCLUYE ALMOHADON COLOR A ELECCION, NO INCLUYE PIE.","sinIva":true},
-    {"id":"sillas-buenos-aires","cat":"sillas","name":"Buenos Aires","img":"sillas-buenos-aires-mvflhua2.jpg","sec":"comedor","price":49000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR.","dims":"63 cm alto total x 52 cm ancho x 63 cm prof."}
+    {"id":"sillas-buenos-aires","cat":"sillas","name":"Buenos Aires","img":"sillas-buenos-aires-mvflhua2.jpg","sec":"comedor","price":49000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR.","dims":"63 cm alto total x 52 cm ancho x 63 cm prof."},
+    {"id":"sillas-luna","cat":"sillas","name":"Luna","img":"sillas-luna-mvflvb1b.jpg","sec":"comedor","price":44500,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."}
   ]
 };
