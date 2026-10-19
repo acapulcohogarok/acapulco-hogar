@@ -84,7 +84,7 @@ window.AH_DATA = {
     {"id":"mesas-mesa-kala","cat":"mesas","name":"Mesa Kala","img":"mesas-03.jpg","priceText":"A medida · consultar","sec":"a-medida","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-tulum","cat":"mesas","name":"Mesa Tulum","img":"mesas-04.jpg","priceText":"A medida · consultar","sec":"a-medida"},
     {"id":"mesas-mesa-x","cat":"mesas","name":"Mesa \"X\"","img":"mesas-05.jpg","priceText":"A medida · consultar","sec":"a-medida"},
-    {"id":"mesas-mesa-redonda","cat":"mesas","name":"Mesa Redonda (SIN VIDRIO)","img":"mesas-06.jpg","price":28500,"sinIva":true,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR.","dims":"56 DIAMETRO"},
+    {"id":"mesas-mesa-redonda","cat":"mesas","name":"Mesa Redonda (SIN VIDRIO)","img":"mesas-06.jpg","price":25000,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR.","dims":"56 DIAMETRO"},
     {"id":"mesas-mesa-tambor","cat":"mesas","name":"Mesa Tambor (SIN VIDRIO)","img":"mesas-07.jpg","price":35000,"sinIva":true,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-rectangular","cat":"mesas","name":"Mesa Rectangular","img":"mesas-08.jpg","price":35000,"sinIva":true,"dims":"60 × 40","notes":["No incluye vidrio (se apoya suelto)"],"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-redonda-xl","cat":"mesas","name":"Mesa Redonda \"XL\"","img":"mesas-09.jpg","price":27055,"sinIva":true,"sec":"ratonas"},
