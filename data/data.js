@@ -81,7 +81,7 @@ window.AH_DATA = {
     {"id":"sillones-exterior-colgante-gota","cat":"sillones-exterior","name":"Colgante Gota","img":"sillones-exterior-15.jpg","price":49000,"dims":"95 cm ancho × 130 cm alto × 58 cm prof","notes":["No incluye pie ni accesorios"],"materials":["Hierro 5/8 · negro"],"sec":"colgantes","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 12 U.\n> CONSULTAR."},
     {"id":"sillones-exterior-pie-soporte-estructura-hierro","cat":"sillones-exterior","name":"Pie Soporte - Estructura Hierro","img":"sillones-exterior-pie-soporte-estructura-mvfnalaq.jpg","price":86000,"notes":["Disponible en blanco o negro"],"sec":"accesorios","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 10 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-circular","cat":"mesas","name":"Mesa Circular","img":"mesas-02.jpg","priceText":"A medida · consultar","sec":"a-medida"},
-    {"id":"mesas-mesa-kala","cat":"mesas","name":"Mesa Kala","img":"mesas-03.jpg","priceText":"A medida · consultar","sec":"a-medida"},
+    {"id":"mesas-mesa-kala","cat":"mesas","name":"Mesa Kala","img":"mesas-03.jpg","priceText":"A medida · consultar","sec":"a-medida","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-tulum","cat":"mesas","name":"Mesa Tulum","img":"mesas-04.jpg","priceText":"A medida · consultar","sec":"a-medida"},
     {"id":"mesas-mesa-x","cat":"mesas","name":"Mesa \"X\"","img":"mesas-05.jpg","priceText":"A medida · consultar","sec":"a-medida"},
     {"id":"mesas-mesa-redonda","cat":"mesas","name":"Mesa Redonda","img":"mesas-06.jpg","price":23780,"sinIva":true,"sec":"ratonas"},
