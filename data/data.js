@@ -49,7 +49,7 @@ window.AH_DATA = {
     {"id":"sillas-bruselas","cat":"sillas","name":"Bruselas","img":"sillas-19.jpg","price":50560,"sinIva":true,"dims":"90 cm alto total × 50 cm respaldo × 44 cm ancho × 40 cm prof","featured":true,"sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-praga","cat":"sillas","name":"Praga","img":"sillas-20.jpg","price":49900,"sinIva":true,"dims":"70 cm alto total × 50 cm ancho × 40 cm prof","sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-lisboa","cat":"sillas","name":"Lisboa","img":"sillas-21.jpg","price":51900,"dims":"70 cm alto total × 50 cm ancho × 45 cm prof","sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
-    {"id":"sillas-capri","cat":"sillas","name":"Capri","img":"sillas-22.jpg","price":43250,"sinIva":true,"dims":"78 ancho × 80 alto × 45 profundidad","sec":"exterior"},
+    {"id":"sillas-capri","cat":"sillas","name":"Capri","img":"sillas-22.jpg","price":44500,"dims":"78 ancho × 80 alto × 45 profundidad","sec":"exterior","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-asuncion","cat":"sillas","name":"Asunción","img":"sillas-23.jpg","price":39700,"sinIva":true,"dims":"99 alto × 78 ancho × 72 profundidad","sec":"exterior"},
     {"id":"sillas-acapulco","cat":"sillas","name":"Acapulco","img":"sillas-24.jpg","price":39580,"sinIva":true,"dims":"97 cm altura total × 76 de ancho × 70 profundidad","sec":"exterior"},
     {"id":"sillas-gervasoni","cat":"sillas","name":"Gervasoni","img":"sillas-25.jpg","price":44562,"sinIva":true,"dims":"62 cm de ancho × 50 cm de profundidad × 34 altura respaldo × 71 altura total","sec":"exterior"},
