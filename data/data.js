@@ -29,7 +29,7 @@ window.AH_DATA = {
   },
   products: [
     {"id":"sillas-tulum-clasica","cat":"sillas","name":"Tulum Clásica","img":"sillas-02.jpg","price":40560,"dims":"42 ancho × 88 alto × 45 prof","featured":true,"sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
-    {"id":"sillas-tulum-max","cat":"sillas","name":"Tulum Max","img":"sillas-03.jpg","price":43900,"dims":"42 ancho × 98 alto total (respaldo de 50 cm) × 40 prof","sec":"comedor"},
+    {"id":"sillas-tulum-max","cat":"sillas","name":"Tulum Max","img":"sillas-03.jpg","price":44990,"dims":"42 ancho × 98 alto total (respaldo de 50 cm) × 40 prof","sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-tulum-max-entrelazada","cat":"sillas","name":"Tulum Max (Entrelazada)","img":"sillas-04.jpg","price":47150,"dims":"42 ancho × 98 alto total (respaldo de 50 cm) × 40 prof","sec":"comedor"},
     {"id":"sillas-tulum-clasica-entrelazada","cat":"sillas","name":"Tulum Clásica (Entrelazada)","img":"sillas-05.jpg","price":43250,"dims":"42 ancho × 88 alto × 40 prof","sec":"comedor"},
     {"id":"sillas-tulum-con-apoyabrazos","cat":"sillas","name":"Tulum con Apoyabrazos","img":"sillas-06.jpg","price":43900,"dims":"45 ancho × 88 alto × 45 prof","sec":"comedor"},
