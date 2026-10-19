@@ -106,6 +106,7 @@ window.AH_DATA = {
     {"id":"sillones-exterior-colgante-gota-con-almohadon","cat":"sillones-exterior","name":"Colgante Gota con Almohadon","img":"sillones-exterior-colgante-gota-con-almo-mv85ckhm.jpg","sec":"colgantes","price":140000,"desc":"Medidas aprox: 95 cm ancho x 130 cm alto x 58 cm prof\u000b HIERRO 5/8 - COLOR NEGRO\u000bINCLUYE ALMOHADON COLOR A ELECCION, NO INCLUYE PIE.","sinIva":true},
     {"id":"sillas-buenos-aires","cat":"sillas","name":"Buenos Aires","img":"sillas-buenos-aires-mvflhua2.jpg","sec":"comedor","price":49000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR.","dims":"63 cm alto total x 52 cm ancho x 63 cm prof."},
     {"id":"sillas-luna","cat":"sillas","name":"Luna","img":"sillas-luna-mvflvb1b.jpg","sec":"comedor","price":44500,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
-    {"id":"sillas-amsterdam-apilable","cat":"sillas","name":"Amsterdam APILABLE","img":"sillas-amsterdam-apilable-mvflx9hk.jpg","sec":"comedor","price":44000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."}
+    {"id":"sillas-amsterdam-apilable","cat":"sillas","name":"Amsterdam APILABLE","img":"sillas-amsterdam-apilable-mvflx9hk.jpg","sec":"comedor","price":44000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
+    {"id":"sillas-gervasoni-con-almohadon","cat":"sillas","name":"Gervasoni con almohadon","img":"sillas-gervasoni-con-almohadon-mvfm2hk6.jpg","sec":"comedor","price":82700,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U. \n> CONSULTAR."}
   ]
 };
