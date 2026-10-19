@@ -89,7 +89,7 @@ window.AH_DATA = {
     {"id":"mesas-mesa-rectangular","cat":"mesas","name":"Mesa Rectangular (SIN VIDRIO)","img":"mesas-08.jpg","price":35000,"sinIva":true,"dims":"60 × 40","notes":["No incluye vidrio (se apoya suelto)"],"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-redonda-xl","cat":"mesas","name":"Mesa Redonda \"XL\" (SIN VIDRIO)","img":"mesas-09.jpg","price":31000,"sinIva":true,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-roma","cat":"mesas","name":"Mesa Roma (SIN VIDRIO)","img":"mesas-10.jpg","price":35000,"notes":["No incluye vidrio (se apoya suelto)"],"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR.","dims":"40 x 60 cm."},
-    {"id":"mesas-mesa-espejo","cat":"mesas","name":"Mesa Espejo","img":"mesas-11.jpg","price":28000,"duo":54000,"sinIva":true,"sec":"ratonas"},
+    {"id":"mesas-mesa-espejo","cat":"mesas","name":"Mesa Espejo DUO (SIN CRISTALES)","img":"mesas-11.jpg","price":72000,"duo":54000,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-vidrio-56-cm-diametro","cat":"mesas","name":"Vidrio de 56 cm de diámetro","img":"mesas-12.jpg","price":22000,"sinIva":true,"sec":"vidrios"},
     {"id":"mesas-vidrio-60-40-cm-rectangular","cat":"mesas","name":"Vidrio rectangular 60 × 40 cm","img":"mesas-13.jpg","price":24000,"sinIva":true,"sec":"vidrios"},
     {"id":"deco-lampara-nueva-roma","cat":"deco","name":"Lámpara Nueva Roma","img":"deco-02.jpg","price":59985,"dims":"48 × 24 cm","sec":"lamparas"},
