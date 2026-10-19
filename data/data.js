@@ -47,7 +47,7 @@ window.AH_DATA = {
     {"id":"sillas-amsterdam-2","cat":"sillas","name":"Amsterdam Clasica","img":"sillas-18.jpg","price":44500,"sinIva":true,"dims":"80 cm alto total × 42 cm ancho × 40 cm prof","sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-amsterdam-con-apoyabrazos-2","cat":"sillas","name":"Amsterdam con Apoyabrazos","img":"sillas-17.jpg","price":48500,"sinIva":true,"dims":"45 ancho × 80 alto × 40 prof","sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-bruselas","cat":"sillas","name":"Bruselas","img":"sillas-19.jpg","price":50560,"sinIva":true,"dims":"90 cm alto total × 50 cm respaldo × 44 cm ancho × 40 cm prof","featured":true,"sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
-    {"id":"sillas-praga","cat":"sillas","name":"Praga","img":"sillas-20.jpg","price":49500,"sinIva":true,"dims":"70 cm alto total × 50 cm ancho × 40 cm prof","sec":"comedor"},
+    {"id":"sillas-praga","cat":"sillas","name":"Praga","img":"sillas-20.jpg","price":49900,"sinIva":true,"dims":"70 cm alto total × 50 cm ancho × 40 cm prof","sec":"comedor","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-lisboa","cat":"sillas","name":"Lisboa","img":"sillas-21.jpg","price":50950,"sinIva":true,"dims":"70 cm alto total × 50 cm ancho × 45 cm prof","sec":"comedor"},
     {"id":"sillas-capri","cat":"sillas","name":"Capri","img":"sillas-22.jpg","price":43250,"sinIva":true,"dims":"78 ancho × 80 alto × 45 profundidad","sec":"exterior"},
     {"id":"sillas-asuncion","cat":"sillas","name":"Asunción","img":"sillas-23.jpg","price":39700,"sinIva":true,"dims":"99 alto × 78 ancho × 72 profundidad","sec":"exterior"},
