@@ -52,7 +52,7 @@ window.AH_DATA = {
     {"id":"sillas-capri","cat":"sillas","name":"Capri","img":"sillas-22.jpg","price":44500,"dims":"78 ancho × 80 alto × 45 profundidad","sec":"exterior","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-asuncion","cat":"sillas","name":"Asunción","img":"sillas-23.jpg","price":38000,"dims":"80 alto × 78 ancho × 72 profundidad","sec":"exterior","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-acapulco","cat":"sillas","name":"Acapulco","img":"sillas-24.jpg","price":44500,"dims":"97 cm altura total × 76 de ancho × 70 profundidad","sec":"exterior","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
-    {"id":"sillas-gervasoni","cat":"sillas","name":"Gervasoni","img":"sillas-25.jpg","price":44562,"sinIva":true,"dims":"62 cm de ancho × 50 cm de profundidad × 34 altura respaldo × 71 altura total","sec":"exterior"},
+    {"id":"sillas-gervasoni","cat":"sillas","name":"Gervasoni","img":"sillas-25.jpg","price":45200,"sinIva":true,"dims":"62 cm de ancho × 50 cm de profundidad","sec":"exterior","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"banquetas-banqueta-tulum","cat":"banquetas","name":"Banqueta Tulum","img":"banquetastaburetes-02.jpg","price":41600,"dims":"Asiento a 70 cm del piso","featured":true,"sec":"banquetas"},
     {"id":"banquetas-banqueta-tulum-entrelazada","cat":"banquetas","name":"Banqueta Tulum Entrelazada","img":"banquetastaburetes-03.jpg","price":47800,"dims":"Asiento a 70 cm del piso","sec":"banquetas"},
     {"id":"banquetas-banqueta-bruselas","cat":"banquetas","name":"Banqueta Bruselas","img":"banquetastaburetes-04.jpg","price":50800,"dims":"Asiento a 70 cm del piso","sec":"banquetas"},
