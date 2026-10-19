@@ -87,7 +87,7 @@ window.AH_DATA = {
     {"id":"mesas-mesa-redonda","cat":"mesas","name":"Mesa Redonda (SIN VIDRIO)","img":"mesas-06.jpg","price":25000,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR.","dims":"56 DIAMETRO"},
     {"id":"mesas-mesa-tambor","cat":"mesas","name":"Mesa Tambor (SIN VIDRIO)","img":"mesas-07.jpg","price":31000,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR.","dims":"56 DIAMETRO"},
     {"id":"mesas-mesa-rectangular","cat":"mesas","name":"Mesa Rectangular (SIN VIDRIO)","img":"mesas-08.jpg","price":35000,"sinIva":true,"dims":"60 × 40","notes":["No incluye vidrio (se apoya suelto)"],"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
-    {"id":"mesas-mesa-redonda-xl","cat":"mesas","name":"Mesa Redonda \"XL\"","img":"mesas-09.jpg","price":27055,"sinIva":true,"sec":"ratonas"},
+    {"id":"mesas-mesa-redonda-xl","cat":"mesas","name":"Mesa Redonda \"XL\" (SIN VIDRIO)","img":"mesas-09.jpg","price":31000,"sinIva":true,"sec":"ratonas","desc":"DESCUENTO POR CANTIDAD A PARTIR DE 6 U.\n> CONSULTAR."},
     {"id":"mesas-mesa-roma","cat":"mesas","name":"Mesa Roma","img":"mesas-10.jpg","price":31396,"sinIva":true,"notes":["No incluye vidrio (se apoya suelto)"],"sec":"ratonas"},
     {"id":"mesas-mesa-espejo","cat":"mesas","name":"Mesa Espejo","img":"mesas-11.jpg","price":28000,"duo":54000,"sinIva":true,"sec":"ratonas"},
     {"id":"mesas-vidrio-56-cm-diametro","cat":"mesas","name":"Vidrio de 56 cm de diámetro","img":"mesas-12.jpg","price":22000,"sinIva":true,"sec":"vidrios"},
