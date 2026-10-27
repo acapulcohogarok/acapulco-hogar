@@ -107,6 +107,7 @@ window.AH_DATA = {
     {"id":"sillas-buenos-aires","cat":"sillas","name":"Buenos Aires","img":"sillas-buenos-aires-mvflhua2.jpg","sec":"comedor","price":49000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR.","dims":"63 cm alto total x 52 cm ancho x 63 cm prof."},
     {"id":"sillas-luna","cat":"sillas","name":"Luna","img":"sillas-luna-mvflvb1b.jpg","sec":"comedor","price":44500,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-amsterdam-apilable","cat":"sillas","name":"Amsterdam APILABLE","img":"sillas-amsterdam-apilable-mvflx9hk.jpg","sec":"comedor","price":44000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
-    {"id":"sillas-gervasoni-con-almohadon","cat":"sillas","name":"Gervasoni con almohadon","img":"sillas-gervasoni-con-almohadon-mvfm2hk6.jpg","sec":"exterior","price":82700,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U. \n> CONSULTAR.","dims":"62 cm de ancho × 50 cm de profundidad"}
+    {"id":"sillas-gervasoni-con-almohadon","cat":"sillas","name":"Gervasoni con almohadon","img":"sillas-gervasoni-con-almohadon-mvfm2hk6.jpg","sec":"exterior","price":82700,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U. \n> CONSULTAR.","dims":"62 cm de ancho × 50 cm de profundidad"},
+    {"id":"sillas-silla-bali","cat":"sillas","name":"Silla Bali","img":"sillas-silla-bali-mvr261tv.jpg","sec":"comedor","price":69000,"desc":"Ancho: 58 cm x Profundidad: 65 cm x Altura total: 80 cm\n\n> CONSULTAR EL DESCUENTO POR CANTIDAD, A PARTIR DE 18 U. <"}
   ]
 };
