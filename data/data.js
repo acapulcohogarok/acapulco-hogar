@@ -108,6 +108,7 @@ window.AH_DATA = {
     {"id":"sillas-luna","cat":"sillas","name":"Luna","img":"sillas-luna-mvflvb1b.jpg","sec":"comedor","price":44500,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-amsterdam-apilable","cat":"sillas","name":"Amsterdam APILABLE","img":"sillas-amsterdam-apilable-mvflx9hk.jpg","sec":"comedor","price":44000,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U.\n> CONSULTAR."},
     {"id":"sillas-gervasoni-con-almohadon","cat":"sillas","name":"Gervasoni con almohadon","img":"sillas-gervasoni-con-almohadon-mvfm2hk6.jpg","sec":"exterior","price":82700,"desc":"DESCUENTO POR CANTIDAD A PARTIR DE 18 U. \n> CONSULTAR.","dims":"62 cm de ancho × 50 cm de profundidad"},
-    {"id":"sillas-silla-bali","cat":"sillas","name":"Silla Bali","img":"sillas-silla-bali-mvr261tv.jpg","sec":"comedor","price":69000,"desc":"> CONSULTAR EL DESCUENTO POR CANTIDAD, A PARTIR DE 18 U. <","dims":"58 ancho x 65 prof x 80 altura total"}
+    {"id":"sillas-silla-bali","cat":"sillas","name":"Silla Bali","img":"sillas-silla-bali-mvr261tv.jpg","sec":"comedor","price":69000,"desc":"> CONSULTAR EL DESCUENTO POR CANTIDAD, A PARTIR DE 18 U. <","dims":"58 ancho x 65 prof x 80 altura total"},
+    {"id":"sillones-exterior-sillon-lunatico-con-almohadon","cat":"sillones-exterior","name":"Sillon Lunatico con almohadon","img":"sillones-exterior-sillon-lunatico-con-al-mwjix4iq.jpg","sec":"sillones","price":114380,"desc":"PRECIO FINAL UNITARIO. \nHACEMOS DESCUENTO POR CANTIDAD A PARTIR DE +18 U. > CONSULTAR PORCENTAJE."}
   ]
 };
